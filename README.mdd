@@ -1,0 +1,20 @@
+# Control por Gestos Faciales y Mouse Facial
+
+Aplicación de escritorio interactiva desarrollada en Python para controlar el cursor del mouse y realizar acciones en pantalla mediante gestos faciales y movimientos de cabeza en tiempo real.
+
+## Características
+
+- **Mouse Facial:** Movimiento del cursor utilizando la punta de la nariz con suavizado espacial.
+- **Clics con Guiño:** 
+  - Guiño de ojo izquierdo = Clic izquierdo.
+  - Guiño de ojo derecho = Clic derecho.
+- **Detección de Expresiones:** Identificación en tiempo real de sonrisas.
+- **Interfaz Gráfica (GUI):** Desarrollada con CustomTkinter en modo oscuro.
+- **Panel de Calibración:** Ajuste mediante deslizadores para la sensibilidad del mouse, suavizado y umbrales de gestos.
+
+## Requisitos e Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/TU_USUARIO/TU_REPOSITTORIO.git](https://github.com/TU_USUARIO/TU_REPOSITTORIO.git)
+   cd TU_REPOSITORIO
